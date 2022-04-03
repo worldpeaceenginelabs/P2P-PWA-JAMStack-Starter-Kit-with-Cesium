@@ -7,55 +7,52 @@ Help us coding to get the Starter Kit to the community of developers out there A
 This project is just some adapters away from reality.
 <br><br>
 
-### 1. Code more arms (Mishmesh adapters)
+### 1. Code more arms (Dencentralize adapters)
 Developer friendly API coming (see further down)
 <br><br>
 
-# True P2P with Mishmesh (status: see issues section)
+# True P2P with Decentralize (status: see issues section)
 
-#### A community-driven P2P-PWA JAMStack Starter Kit for your next decentralized/serverless project (p2p website/app/client/server/api)
-#### Mishmesh brings all decentralized networks together...
+#### A community-driven P2P-PWA-JAMStack Starter Kit with Cesium for your next decentralized/serverless, location-based project (p2p website, app ,client, server, api)
+#### Decentralize brings all decentralized networks together...
 Use the Starterkit for your already existing, yet centralized projects or start a new project, serverless right from the start.
 
 ## [Lets redecentralize the web](https://redecentralize.org/) - The Revolution Will Not Be Televised
 
 If you ever thought about how the Evernet will look. It seems like, it is an ever-fallback-net.
 
-[Mishmesh](https://github.com/draeder/mishmesh) is the result of a really cool, days long conversation of Dreader and me.
+[Decentralize](https://github.com/draeder/decentralize) is the result of a really cool, days long conversation of Dreader and me.
 
 He had already something similar in mind for some time, so great we found each other.
 
-My special thanks to him for sharing his whole decentralization experience, making the P2P transport layer a 70 rows application (for now) with around 30 rows for each adapter.
+My special thanks to him for sharing his whole decentralization experience into a yet simple concept.
 <br><br><br>
 
 ![image](https://user-images.githubusercontent.com/67427045/160407233-aa734253-8616-48f1-ad91-7264183039f4.png)
 <br><br><br>
 
 # How to add arms?
-Developer friendly API that can enable anyone to easily create Mishmesh adapters for other p2p tech is on its way!
+Developer friendly API that can enable anyone to easily create Decentralize adapters for other p2p tech is on its way!
 
-Stay tuned on the original repository [Mishmesh](https://github.com/draeder/mishmesh) 
+Stay tuned on the original repository [Decentralize](https://github.com/draeder/decentralize) 
 
 # Which arms are working already?
 - GUN
+- Hyperswarm-Web
 - Bugout
 <br><br><br>
 
-# Mishmesh
-Transmit messages between peers regardless of underlying decentralization technology they are connected with
+# Decentralize
+Transmit messages between peers regardless of underlying decentralization technology they are connected with.
 
-![Mishmesh example](assets/mishmesh.png)
+Decentralize aims to provide a simple API for rapid development of adapters that can integrate disparate p2p stacks with each other. Most decentralization stacks have things in common. They all emit and listen for events. Many announce a 'topic' or some kind of swarm identifier. Some have end-to-end security built in, some don't.
 
-# Example
-1. Run `> examples/exampleAdapter.js`
-  - This is an example adapter that is built to relay messages between Gun and Bugout provided they share the same topic
-2. Run `> examples/bugout.js`
-3. Run `> examples/gun.js`
-4. In the terminal for bugout, send a message and gun will receive it, and vice versa!
-<br><br><br>
+Decentralize accepts a custom initialization function and corresponding desired methods object for each stack. Then, it lets developers map the APIs together and does the work to relay data between stacks automatically.
+
+![image](https://user-images.githubusercontent.com/67427045/161437648-40c15259-3a41-4218-8cdf-47fa21253b50.png)
 
 # True P2P CLIENT CONCEPT
-This is a high level abstraction of a true P2P client, which is basically your existing or next website/app and [Mishmesh](https://github.com/draeder/mishmesh) with all the listed adapters installed.
+This is a high level abstraction of a true P2P client, which is basically your existing or next website/app and [Decentralize](https://github.com/draeder/decentralize) with all the listed adapters installed.
 
 ![image](https://user-images.githubusercontent.com/67427045/160401140-db2439e0-f7b4-45a4-9679-7cffffc4ba48.png)
 <br><br><br>
@@ -94,9 +91,9 @@ JAMStack Rocks!!!
 
 Just by intregrating this repository in your website/app as soon as its finished.
 
--npm install mishmesh-starter-kit (coming)
+-npm install p2p-pwa-jamstack-starter-kit-with-cesium (coming)
 
-Extend the capabilities by adding arms (Mishmesh adapter) and storage adapters.
+Extend the capabilities by adding arms (Decentralize adapter) and storage adapters.
 There are for instance Gun storage adapters available at https://gun.eco/docs/Awesome-GUN making your app run with your yet centralized stack, for instance MongoDB.
 
 # Signaling

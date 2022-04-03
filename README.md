@@ -9,13 +9,14 @@ This project is just some adapters away from reality.
 
 ### 1. Code more arms (Dencentralize adapters)
 Developer friendly API coming (see further down)
-<br><br>
+<br><br><br>
 
 # True P2P with Decentralize (status: see issues section)
 
-#### A community-driven P2P-PWA-JAMStack Starter Kit with Cesium for your next decentralized/serverless, location-based project (p2p website, app ,client, server, api)
+#### A community-driven P2P-PWA-JAMStack Starter Kit with Cesium and Decentralize for your next decentralized/serverless, location-based project (p2p website, app ,client, server, api)
 #### Decentralize brings all decentralized networks together...
 Use the Starterkit for your already existing, yet centralized projects or start a new project, serverless right from the start.
+<br><br><br>
 
 ## [Lets redecentralize the web](https://redecentralize.org/) - The Revolution Will Not Be Televised
 

@@ -127,17 +127,19 @@ These beasts (clients) pretty much crawling their options for connections.
 Which keeps it super simple, but highly customizable.
 
 1. direct connection via WebRTC
-2. if that doesnt work, reconnect via Bittorrent/Webtorrent
-3. if that doesnt work, reconnect via IPFS
-4. if that doesnt work, reconnect via Hypercore Protocol
-5. if that doesnt work, reconnect via Hyperswarm
-6. if that doesnt work, reconnect via AXE
-7. if that doesnt work, reconnect via updated lists of free stun and turn servers
-8. if that doesnt work, reconnect via DHT lists, saved everywhere its possible (websites, blogs, github, social media, forums, etc.), without stressing free tiers
-9. if that doesnt work, reconnect via DYNDNS
-10. if that doesnt work, reconnect via AD HOC (same LAN, same WIFI, Bluetooth, Direct Wifi, QR-Code)
-11. if that doesnt work, reconnect via Instant Message from a friend who uses the app too.
-12. if that doesnt work, reconnect via free hosted website with updated DHT list (last Fallback)
+2. if that doesnt work, reconnect via Gun
+3. if that doesnt work, reconnect via Bugout
+4. if that doesnt work, reconnect via Bittorrent/Webtorrent
+5. if that doesnt work, reconnect via IPFS
+6. if that doesnt work, reconnect via Hypercore Protocol
+7. if that doesnt work, reconnect via Hyperswarm
+8. if that doesnt work, reconnect via AXE
+9. if that doesnt work, reconnect via updated lists of free stun and turn servers
+10. if that doesnt work, reconnect via DHT lists, saved everywhere its possible (websites, blogs, github, social media, forums, etc.), without stressing free tiers
+11. if that doesnt work, reconnect via DYNDNS
+12. if that doesnt work, reconnect via AD HOC (same LAN, same WIFI, Bluetooth, Direct Wifi, QR-Code) https://berty.tech/blog/bluetooth-low-energy/
+13. if that doesnt work, reconnect via Instant Message from a friend who uses the app too.
+14. if that doesnt work, reconnect via free hosted website with updated DHT list (last Fallback)
 <br><br><br>
 
 # Paving the way to True P2P
